@@ -1,7 +1,7 @@
 {
   "name": "atom-ruesa-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "My personal theme for atom",
   "keywords": [
     "syntax",
