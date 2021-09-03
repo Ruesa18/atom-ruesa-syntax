@@ -10,7 +10,8 @@
         return "LOL";
     }
 
-    echo "Absolut lol";
-    $var = test("PE");
+    echo "Absolute lol";
+    $var = test("Test-Output?");
     var_dump(is_bool($var));
+    echo "New Line :D";
 ?>
