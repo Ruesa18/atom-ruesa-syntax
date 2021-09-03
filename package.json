@@ -1,0 +1,15 @@
+{
+  "name": "atom-ruesa-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "My personal theme for atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Ruesa18/atom-ruesa-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
